@@ -254,7 +254,7 @@
 		"Hack": {
 			"StealthMode": "Gizli Mod",
 			"Descript": "Birsuru hesabi hackleyip iclerinden ufak miktarlar ceker. Ayrica polislere yakalanmayi zorlastirir.",
-			"Power": "Hackelme gücü: ",
+			"Power": "Hackleme gücü: ",
 			"Chance": "Başarı şansı: ",
 			"NoEnergy": "Yeterli enerji yok",
 			"GoodEnergy": "Optimal Enerji",

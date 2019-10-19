@@ -20,17 +20,17 @@
 			"SlotConfig": "Slot machine configuration menu"
 		},
 		"Time": {
-			"minutes": "minutes",
-			"nd": "and",
-			"hour": "hour",
-			"day": "day",
-			"minute": "minute",
-			"second": "second",
-			"now": "now",
-			"days": "days",
-			"forever": "forever",
-			"seconds": "seconds",
-			"hours": "hours"
+			"minutes": "dakika",
+			"nd": "ve",
+			"hour": "saat",
+			"day": "gün",
+			"minute": "dakika",
+			"second": "saniye",
+			"now": "şimdi",
+			"days": "gün",
+			"forever": "sonsuz",
+			"seconds": "saniye",
+			"hours": "saat"
 		},
 		"Notifications": {
 			"AlarmVault": "You cannot spawn an alarm without a vault",
@@ -58,59 +58,59 @@
 			"SysSetting": "%SETTING% has been changed to %VALUE%",
 			"UnSaveSlots": "Slot Machines detached from map!",
 			"SettingsError": "Error saving settings.",
-			"SysReset": "System reset required! Please enter \"arcslots reset\""
+			"SysReset": "Sistem sıfırlaması gerekli! Lütfen \"arcslots reset\" yazın."
 		},
 		"Items": {
-			"SlotMachine": "Slot Machine"
+			"SlotMachine": "Gazino Makinesi"
 		},
 		"VaultMsgs": {
-			"Secure": "**SECURE**",
-			"Insecure": "**BREACHED**",
-			"Status": "VAULT STATUS:",
-			"Warning": "** WARNING **",
-			"TotalFunds": "TOTAL FUNDS:",
-			"Funds": "VAULT FUNDS:",
-			"GettingCash": "You are entitled to receiving casino profits for the next %TIME%.",
-			"WithdrawAmount": "You can currently withdraw %AMOUNT%",
-			"NotGettingCash": "You are currently not receiving casino profits.",
-			"PleaseCheckIn": "Please authenticate to start receiving casino profits",
-			"CheckIn": "Authenticate as manager",
-			"Exit": "Exit",
-			"WithdrawCash": "Withdraw earnings as cash",
-			"WithdrawBank": "Transfer earnings to bank account",
-			"NotManager": "You are not a casino manager",
-			"NoCash": "You cannot withdraw that much money",
-			"NotAuthed": "You are not authenticated",
-			"MaxManagers": "There are already the maximum amount of managers",
-			"WhichAccount": "Which account would you like to send your funds to?",
-			"Robbed": "The vault was robbed while you were on duty. You may not authenticate until your previous authentication expires or you regained the casino's profits."
+			"Secure": "**GÜVENLİ**",
+			"Insecure": "**İHLAL EDİLDİ**",
+			"Status": "DEPO DURUMU:",
+			"Warning": "** UYARI **",
+			"TotalFunds": "TOPLAM SERMAYE:",
+			"Funds": "DEPO SERMAYESİ:",
+			"GettingCash": "Önümüzdeki %TIME% boyunca gazino kazancını çekme hakkına sahipsiniz.",
+			"WithdrawAmount": "Şuanda sadece %AMOUNT% çekebilirsin",
+			"NotGettingCash": "Şu anda casino kârı almıyorsunuz.",
+			"PleaseCheckIn": "Gazino kârlarını almaya başlamak için lütfen kimlik doğrulayın",
+			"CheckIn": "Yönetici olarak yetkilendir",
+			"Exit": "Çıkış",
+			"WithdrawCash": "Kazancını nakit olarak al",
+			"WithdrawBank": "Kazancını banka hesabına gönder",
+			"NotManager": "Gazino yöneticisi değilsin",
+			"NoCash": "Bu kadar parayı çekemezsin",
+			"NotAuthed": "Yetkilendirilmedin",
+			"MaxManagers": "Zaten maksimum sayıda yönetici var",
+			"WhichAccount": "Paranızı hangi hesaba göndermek istiyorsunuz??",
+			"Robbed": "Sen görevdeyken kasa soyuldu. Önceki kimlik doğrulama süreniz sona erene kadar kimlik doğrulaması yapamazsınız veya kumarhanenin kazancını geri kazanamazsınız."
 		},
 		"SlotMsgs": {
-			"BadLuck": "Being broke is bad Luck! If you get that bad card, you lose!",
-			"Wild": "The WILD card can substitute for any other symbol!",
-			"Jackpot": "CONGRATULATIONS YOU HAVE WON THE MEGA JACKPOT *** YOU WON %AMOUNT%",
-			"Loose": "BETTER LUCK NEXT TIME",
-			"Bet": "bet",
-			"LooseMock": "HA HA HA NOT TODAY",
-			"No": "No",
-			"MaxPrize": "MAX PRIZE: %AMOUNT%",
-			"BetMsg": "Select the amount you wish to bet:",
-			"Yes": "Yes",
-			"Lucky": "Feeling lucky today?",
-			"MegaWin": "WOW YOU WON %AMOUNT%",
-			"Win": "YOU WON %AMOUNT%",
-			"FreeSpins": "%AMOUNT% FREE SPINS!"
+			"BadLuck": "Beş parasız olmak kötü şans! Eğer o kötü kartı alırsan, kaybedersin!",
+			"Wild": "WILD kartı başka bir sembolün yerine geçebilir!",
+			"Jackpot": "TEBRİKLER MEGA ÖDÜLÜ KAZANDIN *** %AMOUNT% KAZANDIN",
+			"Loose": "BİR DAHAKİNE İYİ ŞANSLAR",
+			"Bet": "yatır",
+			"LooseMock": "HA HA HA BUGÜN DEĞİL",
+			"No": "Hayır",
+			"MaxPrize": "MAKS ÖDÜL: %AMOUNT%",
+			"BetMsg": "Yatırmak istediğin miktarı seç:",
+			"Yes": "Evet",
+			"Lucky": "Bugün şanslı mı hissediyorsun?",
+			"MegaWin": "WOW %AMOUNT% KAZANDIN",
+			"Win": "%AMOUNT% KAZANDIN",
+			"FreeSpins": "%AMOUNT% BEDAVA CEVIRME!"
 		},
 		"Commands": {
-			"vault_unsave": "Unsave the vault",
-			"slots_unsave": "Unsave all Slot machines",
-			"slots_save": "Save all Slot machines",
-			"slots_respawn": "Respawn Slot machines",
-			"vault_save": "Save the vault"
+			"vault_unsave": "Depoyu kaydetme",
+			"slots_unsave": "Tüm slot makinelerini kaydetme",
+			"slots_save": "Tüm slot makinelerini kaydet",
+			"slots_respawn": "Slot makinelerini tekrar çıkar",
+			"vault_save": "Depoyu kaydet"
 		}
 	},
 	"errmsgs": {
-		"0": "GIVE YOUR MONEY"
+		"0": "PARANI VER"
 	},
 	"settingsdesc": {
 		"vault_steal_rate": "The amount of money a player can take per second.",
